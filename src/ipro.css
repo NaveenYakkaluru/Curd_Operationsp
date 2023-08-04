@@ -1,0 +1,54 @@
+#hari{
+    border-bottom: 2px solid rgb(209, 226, 232);
+    border-top: 2px solid rgb(155, 169, 176);
+    border-left: 2px solid rgb(155, 169, 176);
+    border-right: 2px solid rgb(155, 169, 176);
+    border-radius: 20px;
+    width: 10%;
+    position: relative;
+    left: 45%;
+    
+    
+}
+#hari2{
+    padding: 8px;
+    width: 270px;
+    border-radius: 14px;
+    background-color: rgb(27, 100, 136);
+    color: white;
+    margin-left: 2%;
+}
+#email{
+    position: relative;
+   left: 4%;
+}
+#hari3{
+    padding: 8px;
+    width: 270px;
+    border-radius: 14px;
+    background-color: rgb(123, 16, 39);
+    color: white;
+
+}
+#user{
+    position: relative;
+   left: 2%;
+   margin-left: 30px;
+}
+#hari4{
+    padding: 8px;
+    width: 270px;
+    border-radius: 14px;
+    background-color: red;
+    color: white;
+    margin-left: 4%;
+}
+
+#navi{
+
+   text-align: center;
+   background-image: url("https://th.bing.com/th/id/OIP.9LvwTV0LP3a2kA_1MkIfFQHaEo?pid=ImgDet&rs=1");
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 700px;
+}

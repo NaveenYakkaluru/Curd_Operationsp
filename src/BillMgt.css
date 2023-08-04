@@ -1,0 +1,80 @@
+.a{  
+  border: solid 5px gray;  
+  font-size: xx-large;  
+  background-color: goldenrod;  
+  color:black;  
+}  
+table{  
+border: solid 2px green;  
+position: relative;  
+margin-left: 1%;  
+}  
+thead{  
+position: relative;  
+font-size: xx-large;  
+color: grey;  
+width: 70%;  
+}  
+tbody{  
+position: relative;  
+font-size: x-large;  
+color: navy;  
+width: 70%;  
+  
+  
+}  
+#suni{  
+position: relative;  
+margin-left: 65%;  
+bottom: 440px;  
+width: 44px; 
+}  
+#mahi{  
+display: flex;  
+position: relative;  
+bottom: 400px;  
+}  
+#z{  
+position: relative;  
+margin-left: 1%;  
+background-color: grey;  
+font-size: x-large;  
+ 
+}  
+#x{  
+position: relative;  
+margin-left: 7%;  
+background-color: grey;  
+font-size: x-large;  
+}  
+#c{  
+position: relative;  
+margin-left: 12%;  
+background-color: grey;  
+font-size: x-large;  
+}  
+#v{  
+position: relative;  
+margin-left: 15%;  
+background-color: grey;  
+font-size: x-large;  
+}  
+#b{  
+position: relative;  
+margin-left: 20%;  
+background-color: grey;  
+font-size: x-large;  
+}  
+.kk{  
+color: grey;  
+font-size: x-large;  
+} 
+#div{ 
+  width:350px; 
+  height:400px; 
+  border:1px solid black 
+}
+#lll{
+  position: relative;
+  margin-left: 20%;
+}

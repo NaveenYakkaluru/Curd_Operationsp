@@ -1,0 +1,96 @@
+#div{
+    width:40px;
+    height:40px;
+    border: 1px solid rgb(118, 114, 114);
+    border-radius: 14px;
+    padding:5px
+}
+#nav{
+    padding-bottom: 20px;
+}
+#passwordHelpInline{
+    background-color: rgb(54, 172, 172);
+    color:aliceblue;
+    padding:1px;
+    font-size:8px;
+    position: absolute;
+    top:25px;
+    left:23px;
+}
+#p{
+    font-size: 13px;
+    position: absolute;
+    left:15px;
+    top:10px
+}
+#div1{
+    background-image: url("https://th.bing.com/th/id/R.cf2922b9c74a11dd76146e2171397e59?rik=DraFhPTppE48LQ&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2016%2f01%2fblack-wallpaper-3.jpg&ehk=By%2fOyu69UBtmC8dDgg6mIgYH0qZeo7Fhtj%2bmQnue9pM%3d&risl=&pid=ImgRaw&r=0");
+    height: 1000px;
+}
+#div2{
+    width:300px;
+    height:600px;
+    border: 1px solid white;
+    background-color: rgb(240, 230, 210);    
+    padding:5px;
+    padding-top: 50px;
+}
+#div3{
+    width:800px;
+    height:600px;
+    border: 1px solid white;
+    background-color: rgb(240, 230, 210);    
+    padding:5px
+}
+#div4{
+    display: grid;
+    grid-template-columns: auto auto;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+#div5{
+text-align: left;
+height: 60px;
+border: 1px solid rgb(243, 236, 236);
+border-bottom-color: rgb(200, 194, 194);
+padding-top:15px;
+}
+#div6{
+    text-align:center;
+    height: 60px;
+    border: 1px solid rgb(243, 236, 236);
+    border-bottom-color: rgb(200, 194, 194);
+    padding-top:15px;
+    }
+    #p1{
+        color: rgb(90, 192, 192);
+    }
+    #p2{
+        color: rgb(242, 116, 116);
+    }
+    #p3{
+        color: rgb(104, 104, 196);
+    }
+   #input{
+    width:300px
+   }
+#div7{
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+#button{
+    position: absolute;
+    right: 160px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 1px 1px;
+}
+#id2{
+    border: 1px solid white;
+    border-right-color: rgb(200, 194, 194);
+    padding-right:30px ;
+}

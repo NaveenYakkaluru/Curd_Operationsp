@@ -1,0 +1,9 @@
+ul{
+  background-color: aqua;
+  padding:20px;
+}
+ul li{
+  display: inline;
+  padding: 20px;
+} 
+

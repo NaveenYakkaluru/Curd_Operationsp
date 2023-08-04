@@ -1,0 +1,10 @@
+ul{
+    background-color: black;
+    color: white;
+}
+ul li{
+    display: inline;
+    padding: 40px;
+}
+
+
